@@ -1,0 +1,1895 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>OECD.Stat</Author>
+  <Created>2022-09-15T19:54:42Z</Created>
+  <Company>OECD</Company>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>8676</WindowHeight>
+  <WindowWidth>23040</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m2597016224592">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8" ss:Color="#FFFFFF"
+    ss:Bold="1"/>
+   <Interior ss:Color="#2973BD" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2597016224612">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#2973BD" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2597016224632">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8" ss:Color="#FFFFFF"
+    ss:Bold="1"/>
+   <Interior ss:Color="#00A1E3" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2597016229584">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8" ss:Color="#FFFFFF"
+    ss:Bold="1"/>
+   <Interior ss:Color="#2973BD" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2597016229604">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#2973BD" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2597016229624">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8" ss:Color="#FFFFFF"
+    ss:Bold="1"/>
+   <Interior ss:Color="#2973BD" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2597016229644">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#2973BD" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2597016229664">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8" ss:Color="#FFFFFF"
+    ss:Bold="1"/>
+   <Interior ss:Color="#2973BD" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2597016229684">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#2973BD" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s62">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="8"/>
+  </Style>
+  <Style ss:ID="s63">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="9" ss:Color="#000080"
+    ss:Bold="1" ss:Underline="Single"/>
+  </Style>
+  <Style ss:ID="s88">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#00A1E3" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s89">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8" ss:Bold="1"/>
+   <Interior ss:Color="#C4D8ED" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s90">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Courier New" x:Family="Modern" ss:Size="9" ss:Color="#FF0000"
+    ss:Bold="1"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Gray50" ss:PatternColor="#C0C0C0"/>
+  </Style>
+  <Style ss:ID="s91">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8"/>
+   <Interior ss:Color="#C4D8ED" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s92">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="8"/>
+   <NumberFormat ss:Format="#,##0_ ;\-#,##0\ "/>
+  </Style>
+  <Style ss:ID="s93">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="8"/>
+   <Interior ss:Color="#F0F8FF" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="#,##0_ ;\-#,##0\ "/>
+  </Style>
+  <Style ss:ID="s94">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8" ss:Underline="Single"/>
+   <Interior ss:Color="#C4D8ED" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s95">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8" ss:Underline="Single"/>
+  </Style>
+  <Style ss:ID="s96">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8"/>
+  </Style>
+  <Style ss:ID="s97">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8" ss:Bold="1"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Active Population">
+  <Table ss:ExpandedColumnCount="23" ss:ExpandedRowCount="55" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="13.2">
+   <Column ss:AutoFitWidth="0" ss:Width="144"/>
+   <Column ss:AutoFitWidth="0" ss:Width="13.2"/>
+   <Row ss:AutoFitHeight="0" ss:Hidden="1">
+    <Cell ss:StyleID="s62" ss:Formula="=DotStatQuery(RC[1])"><Data ss:Type="Error">#NAME?</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&lt;WebTableParameter xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema&quot; xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xmlns=&quot;http://stats.oecd.org/OECDStatWS/2004/03/01/&quot;&gt;&lt;DataTable Code=&quot;STLABOUR&quot; HasMetadata=&quot;true&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Short-Term Labour Market Statistics&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Statistiques à court terme sur le marché de travail&lt;/Name&gt;&lt;Dimension Code=&quot;LOCATION&quot; HasMetadata=&quot;false&quot; CommonCode=&quot;LOCATION&quot; Display=&quot;labels&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Country&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Pays&lt;/Name&gt;&lt;Member Code=&quot;AUS&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Australia&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Australie&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;AUT&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Austria&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Autriche&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;BEL&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Belgium&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Belgique&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;CAN&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Canada&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Canada&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;CHL&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Chile&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Chili&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;COL&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Colombia&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Colombie&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;CRI&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Costa Rica&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Costa Rica&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;CZE&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Czech Republic&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;République tchèque&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;DNK&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Denmark&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Danemark&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;EST&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Estonia&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Estonie&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;FIN&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Finland&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Finlande&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;FRA&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;France&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;France&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;DEU&quot; HasMetadata=&quot;true&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Germany&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Allemagne&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;GRC&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Greece&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Grèce&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;HUN&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Hungary&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Hongrie&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;ISL&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Iceland&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Islande&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;IRL&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Ireland&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Irlande&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;ISR&quot; HasMetadata=&quot;true&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Israel&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Israël&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;ITA&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Italy&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Italie&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;JPN&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Japan&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Japon&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;KOR&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Korea&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Corée&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;LTU&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Lithuania&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Lituanie&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;LVA&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Latvia&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Lettonie&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;LUX&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Luxembourg&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Luxembourg&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;MEX&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Mexico&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Mexique&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;NLD&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Netherlands&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Pays-Bas&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;NZL&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;New Zealand&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Nouvelle-Zélande&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;NOR&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Norway&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Norvège&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;POL&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Poland&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Pologne&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;PRT&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Portugal&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Portugal&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;SVK&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Slovak Republic&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;République slovaque&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;SVN&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Slovenia&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Slovénie&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;ESP&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Spain&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Espagne&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;SWE&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Sweden&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Suède&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;CHE&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Switzerland&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Suisse&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;TUR&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Türkiye&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Türkiye&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;GBR&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;United Kingdom&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Royaume-Uni&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;USA&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;United States&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;États-Unis&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;EA19&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Euro area (19 countries)&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Zone euro (19 pays)&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;EU27_2020&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;European Union – 27 countries (from 01/02/2020)&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Union européenne – 27 pays (à partir du 01/02/2020)&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;G-7&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;G7&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;G7&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;OECD&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;OECD - Total&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;OCDE - Total&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;RUS&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Russia&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Russie&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;ZAF&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;South Africa&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Afrique du Sud&lt;/Name&gt;&lt;/Member&gt;&lt;/Dimension&gt;&lt;Dimension Code=&quot;SUBJECT&quot; HasMetadata=&quot;false&quot; Display=&quot;labels&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Subject&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Sujet&lt;/Name&gt;&lt;Member Code=&quot;LFACTTFE&quot; HasMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Active population, Aged 15 and over, Females&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Population active, Agée de 15 ans et plus, Femmes&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;LFACTTMA&quot; HasMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Active population, Aged 15 and over, Males&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Population active, Agée de 15 ans et plus, Hommes&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;LFACTTTT&quot; HasMetadata=&quot;false&quot; HasChild=&quot;0&quot; IsDisplayed=&quot;true&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Active population, Aged 15 and over, All persons&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Population active, Agée de 15 ans et plus, Ensemble des personnes&lt;/Name&gt;&lt;/Member&gt;&lt;/Dimension&gt;&lt;Dimension Code=&quot;MEASURE&quot; HasMetadata=&quot;false&quot; Display=&quot;labels&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Measure&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Mesure&lt;/Name&gt;&lt;Member Code=&quot;STSA&quot; HasMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Level, rate or quantity series, s.a.&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Série en niveau, taux ou quantité, c.v.s.&lt;/Name&gt;&lt;/Member&gt;&lt;/Dimension&gt;&lt;Dimension Code=&quot;FREQUENCY&quot; HasMetadata=&quot;false&quot; CommonCode=&quot;FREQUENCY&quot; Display=&quot;labels&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Frequency&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Fréquence&lt;/Name&gt;&lt;Member Code=&quot;A&quot; HasMetadata=&quot;false&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Annual&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Annuelle&lt;/Name&gt;&lt;/Member&gt;&lt;/Dimension&gt;&lt;Dimension Code=&quot;TIME&quot; HasMetadata=&quot;false&quot; CommonCode=&quot;TIME&quot; Display=&quot;labels&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Time&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Temps&lt;/Name&gt;&lt;Member Code=&quot;2000&quot; HasMetadata=&quot;false&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;2000&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;2000&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;2001&quot; HasMetadata=&quot;false&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;2001&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;2001&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;2002&quot; HasMetadata=&quot;false&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;2002&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;2002&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;2003&quot; HasMetadata=&quot;false&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;2003&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;2003&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;2004&quot; HasMetadata=&quot;false&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;2004&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;2004&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;2005&quot; HasMetadata=&quot;false&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;2005&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;2005&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;2006&quot; HasMetadata=&quot;false&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;2006&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;2006&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;2007&quot; HasMetadata=&quot;false&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;2007&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;2007&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;2008&quot; HasMetadata=&quot;false&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;2008&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;2008&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;2009&quot; HasMetadata=&quot;false&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;2009&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;2009&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;2010&quot; HasMetadata=&quot;false&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;2010&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;2010&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;2011&quot; HasMetadata=&quot;false&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;2011&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;2011&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;2012&quot; HasMetadata=&quot;false&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;2012&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;2012&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;2013&quot; HasMetadata=&quot;false&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;2013&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;2013&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;2014&quot; HasMetadata=&quot;false&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;2014&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;2014&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;2015&quot; HasMetadata=&quot;false&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;2015&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;2015&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;2016&quot; HasMetadata=&quot;false&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;2016&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;2016&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;2017&quot; HasMetadata=&quot;false&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;2017&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;2017&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;2018&quot; HasMetadata=&quot;false&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;2018&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;2018&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;2019&quot; HasMetadata=&quot;false&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;2019&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;2019&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;2020&quot; HasMetadata=&quot;false&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;2020&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;2020&lt;/Name&gt;&lt;/Member&gt;&lt;/Dimension&gt;&lt;WBOSInformations&gt;&lt;TimeDimension WebTreeWasUsed=&quot;false&quot;&gt;&lt;StartCodes Annual=&quot;2000&quot; /&gt;&lt;EndCodes Annual=&quot;2020&quot; /&gt;&lt;/TimeDimension&gt;&lt;/WBOSInformations&gt;&lt;Tabulation Axis=&quot;horizontal&quot;&gt;&lt;Dimension Code=&quot;TIME&quot; CommonCode=&quot;TIME&quot; /&gt;&lt;/Tabulation&gt;&lt;Tabulation Axis=&quot;vertical&quot;&gt;&lt;Dimension Code=&quot;LOCATION&quot; CommonCode=&quot;LOCATION&quot; /&gt;&lt;/Tabulation&gt;&lt;Tabulation Axis=&quot;page&quot;&gt;&lt;Dimension Code=&quot;SUBJECT&quot; /&gt;&lt;Dimension Code=&quot;MEASURE&quot; /&gt;&lt;Dimension Code=&quot;FREQUENCY&quot; CommonCode=&quot;FREQUENCY&quot; /&gt;&lt;/Tabulation&gt;&lt;Formatting&gt;&lt;Labels LocaleIsoCode=&quot;en&quot; /&gt;&lt;Power&gt;0&lt;/Power&gt;&lt;Decimals&gt;0&lt;/Decimals&gt;&lt;SkipEmptyLines&gt;true&lt;/SkipEmptyLines&gt;&lt;SkipEmptyCols&gt;true&lt;/SkipEmptyCols&gt;&lt;SkipLineHierarchy&gt;false&lt;/SkipLineHierarchy&gt;&lt;SkipColHierarchy&gt;false&lt;/SkipColHierarchy&gt;&lt;Page&gt;1&lt;/Page&gt;&lt;/Formatting&gt;&lt;/DataTable&gt;&lt;Format&gt;&lt;ShowEmptyAxes&gt;true&lt;/ShowEmptyAxes&gt;&lt;Page&gt;1&lt;/Page&gt;&lt;EnableSort&gt;true&lt;/EnableSort&gt;&lt;IncludeFlagColumn&gt;false&lt;/IncludeFlagColumn&gt;&lt;IncludeTimeSeriesId&gt;false&lt;/IncludeTimeSeriesId&gt;&lt;DoBarChart&gt;false&lt;/DoBarChart&gt;&lt;FreezePanes&gt;false&lt;/FreezePanes&gt;&lt;MaxBarChartLen&gt;65&lt;/MaxBarChartLen&gt;&lt;/Format&gt;&lt;Query&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Active Population&lt;/Name&gt;&lt;AbsoluteUri&gt;http://stats.oecd.org//View.aspx?QueryId=36363&amp;amp;QueryType=Public&amp;amp;Lang=en&lt;/AbsoluteUri&gt;&lt;/Query&gt;&lt;/WebTableParameter&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="23.55">
+    <Cell ss:StyleID="s63" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=STLABOUR&amp;ShowOnWeb=true&amp;Lang=en"><Data
+      ss:Type="String">Dataset: Short-Term Labour Market Statistics</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:MergeAcross="1" ss:StyleID="m2597016229584"><Data ss:Type="String">Subject</Data></Cell>
+    <Cell ss:MergeAcross="20" ss:StyleID="m2597016229604"><Data ss:Type="String">Active population, Aged 15 and over, All persons</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:MergeAcross="1" ss:StyleID="m2597016229624"><Data ss:Type="String">Measure</Data></Cell>
+    <Cell ss:MergeAcross="20" ss:StyleID="m2597016229644"><Data ss:Type="String">Level, rate or quantity series, s.a.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:MergeAcross="1" ss:StyleID="m2597016229664"><Data ss:Type="String">Frequency</Data></Cell>
+    <Cell ss:MergeAcross="20" ss:StyleID="m2597016229684"><Data ss:Type="String">Annual</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:MergeAcross="1" ss:StyleID="m2597016224592"><Data ss:Type="String">Unit</Data></Cell>
+    <Cell ss:MergeAcross="20" ss:StyleID="m2597016224612"><Data ss:Type="String">Persons, Thousands</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:MergeAcross="1" ss:StyleID="m2597016224632"><Data ss:Type="String">Time</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">2000</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">2001</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">2002</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">2003</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">2004</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">2005</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">2006</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">2007</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">2008</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">2009</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">2010</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">2011</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">2012</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">2013</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">2014</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">2015</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">2016</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">2017</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">2018</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">2019</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">2020</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.8">
+    <Cell ss:StyleID="s89"><Data ss:Type="String">Country</Data></Cell>
+    <Cell ss:StyleID="s90" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=STLABOUR&amp;Coords=[SUBJECT].[LFACTTTT],[MEASURE].[STSA],[FREQUENCY].[A]&amp;ShowOnWeb=true&amp;Lang=en"><Data
+      ss:Type="String">i</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.8">
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Australia</Data></Cell>
+    <Cell ss:StyleID="s90" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=STLABOUR&amp;Coords=[SUBJECT].[LFACTTTT],[MEASURE].[STSA],[FREQUENCY].[A],[LOCATION].[AUS]&amp;ShowOnWeb=true&amp;Lang=en"><Data
+      ss:Type="String">i</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">9495.6029999999992</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">9670.6530000000002</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">9810.1779999999999</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">9984.3529999999992</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">10100.959999999999</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">10400.290000000001</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">10630.25</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">10910.75</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">11203.35</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">11441.19</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">11626.95</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">11813.93</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">11976.61</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">12146.34</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">12274.87</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">12517.43</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">12691.17</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">12971.26</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">13281.63</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">13567.32</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">13547.51</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.8">
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Austria</Data></Cell>
+    <Cell ss:StyleID="s90" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=STLABOUR&amp;Coords=[SUBJECT].[LFACTTTT],[MEASURE].[STSA],[FREQUENCY].[A],[LOCATION].[AUT]&amp;ShowOnWeb=true&amp;Lang=en"><Data
+      ss:Type="String">i</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">3918</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">3881</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">3948</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">3997</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">3939</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">3970.875</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">4037.625</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">4123.9250000000002</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">4166</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">4205.0249999999996</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">4220.05</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">4246.2250000000004</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">4293.3</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">4335.8500000000004</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">4357.5749999999998</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">4400.0749999999998</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">4490.1750000000002</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">4508.0249999999996</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">4539.05</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">4559.2</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">4540.3</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.8">
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Belgium</Data></Cell>
+    <Cell ss:StyleID="s90" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=STLABOUR&amp;Coords=[SUBJECT].[LFACTTTT],[MEASURE].[STSA],[FREQUENCY].[A],[LOCATION].[BEL]&amp;ShowOnWeb=true&amp;Lang=en"><Data
+      ss:Type="String">i</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">4401.1499999999996</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">4342.55</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">4400.5</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">4432.6499999999996</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">4518.1000000000004</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">4625.8500000000004</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">4647.1499999999996</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">4732.7250000000004</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">4779.3</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">4800.2749999999996</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">4894.6000000000004</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">4855.95</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">4892.9250000000002</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">4947.125</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">4966.8500000000004</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">4973.4750000000004</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">4976.05</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">4991.5</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">5055.8999999999996</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">5105.6750000000002</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">5084.625</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.8">
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Canada</Data></Cell>
+    <Cell ss:StyleID="s90" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=STLABOUR&amp;Coords=[SUBJECT].[LFACTTTT],[MEASURE].[STSA],[FREQUENCY].[A],[LOCATION].[CAN]&amp;ShowOnWeb=true&amp;Lang=en"><Data
+      ss:Type="String">i</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">15841.93</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">16094.07</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">16560.68</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">16944.14</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">17147.099999999999</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">17292.13</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">17482.310000000001</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">17800.03</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">18077.009999999998</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">18212.09</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">18399.97</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">18574.72</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">18737.41</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">18932.57</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">18997.48</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">19120.72</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">19270.28</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">19530.28</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">19732.03</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">20139.75</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">19896.599999999999</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.8">
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Chile</Data></Cell>
+    <Cell ss:StyleID="s90" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=STLABOUR&amp;Coords=[SUBJECT].[LFACTTTT],[MEASURE].[STSA],[FREQUENCY].[A],[LOCATION].[CHL]&amp;ShowOnWeb=true&amp;Lang=en"><Data
+      ss:Type="String">i</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">5993.55</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">6065.835</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">6175.8130000000001</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">6398.8130000000001</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">6607.652</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">6798.4080000000004</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">6802.7529999999997</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">6944.3869999999997</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">7203</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">7299.8329999999996</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">7998.31</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">8305.7060000000001</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">8428.4330000000009</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">8559.3209999999999</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">8720.0319999999992</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">8854.8230000000003</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">8995.5519999999997</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">9241.0239999999994</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">9484.4940000000006</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">9670.6759999999995</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">8807.5120000000006</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.8">
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Colombia</Data></Cell>
+    <Cell ss:StyleID="s90" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=STLABOUR&amp;Coords=[SUBJECT].[LFACTTTT],[MEASURE].[STSA],[FREQUENCY].[A],[LOCATION].[COL]&amp;ShowOnWeb=true&amp;Lang=en"><Data
+      ss:Type="String">i</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">..</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">..</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">..</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">..</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">..</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">..</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">..</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">18772.599999999999</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">19159.28</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">20374.78</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">21138.18</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">21735.439999999999</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">22365.26</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">22567.06</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">22912.99</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">23404.71</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">23688.86</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">24062.05</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">24418.52</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">24808.69</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">23731.35</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.8">
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Costa Rica</Data></Cell>
+    <Cell ss:StyleID="s90" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=STLABOUR&amp;Coords=[SUBJECT].[LFACTTTT],[MEASURE].[STSA],[FREQUENCY].[A],[LOCATION].[CRI]&amp;ShowOnWeb=true&amp;Lang=en"><Data
+      ss:Type="String">i</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="String">..</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="String">..</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="String">..</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="String">..</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="String">..</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="String">..</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="String">..</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="String">..</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="String">..</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="String">..</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="String">..</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2040.84</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2214.0749999999998</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2235.77</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2284.1419999999998</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2276.1039999999998</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2206.1790000000001</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2255.8470000000002</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2359.6439999999998</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2464.9560000000001</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2406.5320000000002</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.8">
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Czech Republic</Data></Cell>
+    <Cell ss:StyleID="s90" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=STLABOUR&amp;Coords=[SUBJECT].[LFACTTTT],[MEASURE].[STSA],[FREQUENCY].[A],[LOCATION].[CZE]&amp;ShowOnWeb=true&amp;Lang=en"><Data
+      ss:Type="String">i</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">5134.125</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">5100.0749999999998</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">5104.3999999999996</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">5099.5249999999996</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">5116.2749999999996</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">5174.2</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">5199.7250000000004</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">5198.5249999999996</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">5232.3</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">5286.45</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">5268.6</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">5223.2250000000004</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">5256.8</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">5306</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">5297.7250000000004</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">5309.85</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">5349.7749999999996</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">5376.8249999999998</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">5415.1</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">5411.9250000000002</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">5371.95</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.8">
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Denmark</Data></Cell>
+    <Cell ss:StyleID="s90" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=STLABOUR&amp;Coords=[SUBJECT].[LFACTTTT],[MEASURE].[STSA],[FREQUENCY].[A],[LOCATION].[DNK]&amp;ShowOnWeb=true&amp;Lang=en"><Data
+      ss:Type="String">i</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2844.85</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2869.5</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2854.4250000000002</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2862.1750000000002</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2897.8249999999998</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2892.0749999999998</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2919.125</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2914.45</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2913.4749999999999</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2905.1</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2884.85</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2883.5749999999998</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2868.5</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2846.45</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2862.125</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2890.4749999999999</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2936.0749999999998</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2961.25</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2985.4749999999999</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">3029.6750000000002</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">3022.75</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.8">
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Estonia</Data></Cell>
+    <Cell ss:StyleID="s90" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=STLABOUR&amp;Coords=[SUBJECT].[LFACTTTT],[MEASURE].[STSA],[FREQUENCY].[A],[LOCATION].[EST]&amp;ShowOnWeb=true&amp;Lang=en"><Data
+      ss:Type="String">i</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">685.52499999999998</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">677.82500000000005</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">664.47500000000002</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">672.5</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">669.85</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">669.3</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">692.67499999999995</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">689.25</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">693.85</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">686.95</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">681.9</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">688.02499999999998</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">683.4</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">680.02499999999998</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">674.4</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">683.15</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">691.4</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">698.82500000000005</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">702.42499999999995</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">702.57500000000005</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">704.52499999999998</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.8">
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Finland</Data></Cell>
+    <Cell ss:StyleID="s90" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=STLABOUR&amp;Coords=[SUBJECT].[LFACTTTT],[MEASURE].[STSA],[FREQUENCY].[A],[LOCATION].[FIN]&amp;ShowOnWeb=true&amp;Lang=en"><Data
+      ss:Type="String">i</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2589.25</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2604.7249999999999</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2609.5500000000002</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2599.6750000000002</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2593.4499999999998</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2620.5</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2647.85</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2674.9749999999999</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2703.05</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2678.2249999999999</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2671.75</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2682.375</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2690.0749999999998</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2675.9749999999999</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2679.3249999999998</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2688.9250000000002</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2684.875</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2707.0749999999998</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2741.7249999999999</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2749.65</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2740.875</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.8">
+    <Cell ss:StyleID="s91"><Data ss:Type="String">France</Data></Cell>
+    <Cell ss:StyleID="s90" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=STLABOUR&amp;Coords=[SUBJECT].[LFACTTTT],[MEASURE].[STSA],[FREQUENCY].[A],[LOCATION].[FRA]&amp;ShowOnWeb=true&amp;Lang=en"><Data
+      ss:Type="String">i</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">26762.81</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">27049.8</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">27300.03</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">26882.13</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">27103.13</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">27303.18</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">27470.799999999999</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">27708.25</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">27896.93</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">28132.05</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">28235.57</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">28247.8</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">28481.599999999999</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">28625.07</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">29402.2</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">29495.85</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">29549.18</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">29586.97</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">29699.8</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">29625.03</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">29345.8</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.8">
+    <Cell ss:StyleID="s94" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=STLABOUR&amp;Coords=[LOCATION].[DEU]&amp;ShowOnWeb=true&amp;Lang=en"><Data
+      ss:Type="String">Germany</Data></Cell>
+    <Cell ss:StyleID="s90" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=STLABOUR&amp;Coords=[SUBJECT].[LFACTTTT],[MEASURE].[STSA],[FREQUENCY].[A],[LOCATION].[DEU]&amp;ShowOnWeb=true&amp;Lang=en"><Data
+      ss:Type="String">i</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">39531.61</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">39682.300000000003</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">39727.25</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">39827.39</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">40032.620000000003</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">40931.949999999997</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">41417.5</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">41589.300000000003</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">41676.879999999997</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">41698.85</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">40837.230000000003</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">41184.65</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">41350.35</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">41711.550000000003</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">41959.43</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">42158.27</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">43039.18</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">43282.65</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">43380.65</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">43771.35</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">43516.7</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">E: Estimated value </Font></ss:Data></Comment></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.8">
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Greece</Data></Cell>
+    <Cell ss:StyleID="s90" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=STLABOUR&amp;Coords=[SUBJECT].[LFACTTTT],[MEASURE].[STSA],[FREQUENCY].[A],[LOCATION].[GRC]&amp;ShowOnWeb=true&amp;Lang=en"><Data
+      ss:Type="String">i</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">4611.7749999999996</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">4710.5249999999996</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">4757.3249999999998</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">4825.6750000000002</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">4909.2250000000004</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">4936.8500000000004</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">4975.7250000000004</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">4982.3249999999998</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">4998.2</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">5040.7</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">5029.05</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">4936.125</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">4890.1000000000004</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">4843.4750000000004</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">4810.6499999999996</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">4807.6499999999996</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">4804.5</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">4779.75</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">4742.95</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">4729.9250000000002</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">4630.3500000000004</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.8">
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Hungary</Data></Cell>
+    <Cell ss:StyleID="s90" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=STLABOUR&amp;Coords=[SUBJECT].[LFACTTTT],[MEASURE].[STSA],[FREQUENCY].[A],[LOCATION].[HUN]&amp;ShowOnWeb=true&amp;Lang=en"><Data
+      ss:Type="String">i</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">4091.5749999999998</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">4103.2749999999996</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">4110.3</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">4166.375</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">4152.8500000000004</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">4203.6750000000002</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">4246.6000000000004</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">4214.0749999999998</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">4174.625</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">4165.6000000000004</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">4201.8</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">4224.9750000000004</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">4300.375</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">4333.8</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">4444.2</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">4518.375</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">4586.2250000000004</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">4613.1000000000004</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">4641.6000000000004</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">4671.875</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">4658.45</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.8">
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Iceland</Data></Cell>
+    <Cell ss:StyleID="s90" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=STLABOUR&amp;Coords=[SUBJECT].[LFACTTTT],[MEASURE].[STSA],[FREQUENCY].[A],[LOCATION].[ISL]&amp;ShowOnWeb=true&amp;Lang=en"><Data
+      ss:Type="String">i</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">160.06100000000001</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">162.721</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">161.994</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">160.35</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">159.67500000000001</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">164.02500000000001</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">172.72499999999999</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">179.57499999999999</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">182.42500000000001</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">179.17500000000001</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">179.32499999999999</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">178.55</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">178.625</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">183.1</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">186.75</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">191.25</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">196.3</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">199.32499999999999</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">203.875</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">208.32499999999999</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">205.8</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.8">
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Ireland</Data></Cell>
+    <Cell ss:StyleID="s90" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=STLABOUR&amp;Coords=[SUBJECT].[LFACTTTT],[MEASURE].[STSA],[FREQUENCY].[A],[LOCATION].[IRL]&amp;ShowOnWeb=true&amp;Lang=en"><Data
+      ss:Type="String">i</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">1768.625</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">1816.425</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">1859.625</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">1900.55</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">1953.55</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2040.575</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2138.0250000000001</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2337.7249999999999</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2358.65</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2305.9250000000002</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2252.85</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2230.8000000000002</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2224.0500000000002</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2246.3249999999998</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2256.2750000000001</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2283.15</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2326.9749999999999</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2351.8000000000002</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2394.75</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2443.2750000000001</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2430.75</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.8">
+    <Cell ss:StyleID="s94" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=STLABOUR&amp;Coords=[LOCATION].[ISR]&amp;ShowOnWeb=true&amp;Lang=en"><Data
+      ss:Type="String">Israel</Data></Cell>
+    <Cell ss:StyleID="s90" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=STLABOUR&amp;Coords=[SUBJECT].[LFACTTTT],[MEASURE].[STSA],[FREQUENCY].[A],[LOCATION].[ISR]&amp;ShowOnWeb=true&amp;Lang=en"><Data
+      ss:Type="String">i</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">2435</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">2498.9250000000002</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">2546.6999999999998</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">2609.9749999999999</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">2678.55</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">2740.0749999999998</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">2809.7249999999999</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">2893.8</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">2957.0250000000001</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">3072.85</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">3147.125</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">3204.2</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">3606.0250000000001</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">3677.85</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">3778.3330000000001</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">3845.7170000000001</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">3925.1750000000002</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">3993.1</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">4067.7170000000001</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">4123.7169999999996</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">4090.4</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.8">
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Italy</Data></Cell>
+    <Cell ss:StyleID="s90" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=STLABOUR&amp;Coords=[SUBJECT].[LFACTTTT],[MEASURE].[STSA],[FREQUENCY].[A],[LOCATION].[ITA]&amp;ShowOnWeb=true&amp;Lang=en"><Data
+      ss:Type="String">i</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">23564.63</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">23771.200000000001</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">23981.32</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">24141.13</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">24306.53</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">24284.18</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">24411.7</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">24374.82</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">24754.47</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">24604.880000000001</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">24581.85</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">24658.95</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">25256.32</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">25259.07</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">25514.45</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">25497.45</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">25769.45</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">25928.82</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">25969.43</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">25941.07</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">25213.599999999999</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.8">
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Japan</Data></Cell>
+    <Cell ss:StyleID="s90" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=STLABOUR&amp;Coords=[SUBJECT].[LFACTTTT],[MEASURE].[STSA],[FREQUENCY].[A],[LOCATION].[JPN]&amp;ShowOnWeb=true&amp;Lang=en"><Data
+      ss:Type="String">i</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">67662.5</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">67518.34</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">66890</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">66663.34</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">66420.84</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">66505.84</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">66638.34</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">66843.34</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">66740</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">66500</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">66317.5</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">65955</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">65651.66</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">65927.5</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">66087.5</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">66250.84</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">66785</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">67323.34</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">68491.66</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">69121.66</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">69022.5</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.8">
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Korea</Data></Cell>
+    <Cell ss:StyleID="s90" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=STLABOUR&amp;Coords=[SUBJECT].[LFACTTTT],[MEASURE].[STSA],[FREQUENCY].[A],[LOCATION].[KOR]&amp;ShowOnWeb=true&amp;Lang=en"><Data
+      ss:Type="String">i</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">22151</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">22511.279999999999</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">22982.32</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">23042.84</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">23543.53</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">23718.32</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">24023.77</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">24351.38</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">24550.63</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">24581.86</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">24956.43</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">25389</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">25780.84</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">26107.58</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">26835.7</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">27153.43</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">27418.33</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">27747.71</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">27895.33</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">28186.17</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">28012.27</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.8">
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Lithuania</Data></Cell>
+    <Cell ss:StyleID="s90" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=STLABOUR&amp;Coords=[SUBJECT].[LFACTTTT],[MEASURE].[STSA],[FREQUENCY].[A],[LOCATION].[LTU]&amp;ShowOnWeb=true&amp;Lang=en"><Data
+      ss:Type="String">i</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">..</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">..</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">..</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">..</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">..</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">1564.7</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">1516.575</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">1515.9749999999999</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">1515.4</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">1528.075</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">1518.075</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">1481.65</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">1472.55</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">1465.2249999999999</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">1477.05</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">1468.875</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">1477.55</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">1457.925</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">1464.75</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">1470.375</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">1484.125</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.8">
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Latvia</Data></Cell>
+    <Cell ss:StyleID="s90" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=STLABOUR&amp;Coords=[SUBJECT].[LFACTTTT],[MEASURE].[STSA],[FREQUENCY].[A],[LOCATION].[LVA]&amp;ShowOnWeb=true&amp;Lang=en"><Data
+      ss:Type="String">i</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">1097.5999999999999</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">1083.5999999999999</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">1091.7</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">1088.825</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">1092.125</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">1080.8</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">1108.9000000000001</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">1125.5</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">1143.4000000000001</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">1101.4000000000001</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">1056.5</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">1028.2249999999999</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">1030.7249999999999</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">1014.25</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">992.25</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">994.22500000000002</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">988.625</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">980.25</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">982.17499999999995</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">971.35</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">971.67499999999995</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.8">
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Luxembourg</Data></Cell>
+    <Cell ss:StyleID="s90" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=STLABOUR&amp;Coords=[SUBJECT].[LFACTTTT],[MEASURE].[STSA],[FREQUENCY].[A],[LOCATION].[LUX]&amp;ShowOnWeb=true&amp;Lang=en"><Data
+      ss:Type="String">i</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">185.2</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">188.7</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">193.3</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">194.2</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">198.5</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">202.7</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">205</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">211.47499999999999</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">213.15</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">228.9</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">230.9</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">236.32499999999999</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">248.85</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">253.52500000000001</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">260.89999999999998</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">275.875</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">277.97500000000002</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">287.7</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">296.47500000000002</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">306.27499999999998</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">313.625</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.8">
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Mexico</Data></Cell>
+    <Cell ss:StyleID="s90" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=STLABOUR&amp;Coords=[SUBJECT].[LFACTTTT],[MEASURE].[STSA],[FREQUENCY].[A],[LOCATION].[MEX]&amp;ShowOnWeb=true&amp;Lang=en"><Data
+      ss:Type="String">i</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="String">..</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="String">..</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="String">..</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="String">..</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="String">..</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">43631.5</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">44982.52</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">45904.54</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">46769.21</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">48018.36</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">48717.79</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">49721.7</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">51228.77</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">51787.09</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">51924.05</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">52905.13</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">53679.95</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">53520.09</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">54971.519999999997</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">56594.99</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">53304.76</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">E: Estimated value </Font></ss:Data></Comment></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.8">
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Netherlands</Data></Cell>
+    <Cell ss:StyleID="s90" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=STLABOUR&amp;Coords=[SUBJECT].[LFACTTTT],[MEASURE].[STSA],[FREQUENCY].[A],[LOCATION].[NLD]&amp;ShowOnWeb=true&amp;Lang=en"><Data
+      ss:Type="String">i</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">8108.65</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">8253.7250000000004</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">8398.9249999999993</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">8431.5750000000007</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">8492.5249999999996</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">8319.9750000000004</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">8375.4750000000004</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">8541.25</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">8695.6</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">8764.4</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">8724.9500000000007</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">8725.6749999999993</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">8860.85</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">8932.0750000000007</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">8895.4500000000007</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">8931.9249999999993</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">8965.4</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">9042.0750000000007</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">9147.375</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">9296.15</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">9337.5750000000007</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.8">
+    <Cell ss:StyleID="s91"><Data ss:Type="String">New Zealand</Data></Cell>
+    <Cell ss:StyleID="s90" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=STLABOUR&amp;Coords=[SUBJECT].[LFACTTTT],[MEASURE].[STSA],[FREQUENCY].[A],[LOCATION].[NZL]&amp;ShowOnWeb=true&amp;Lang=en"><Data
+      ss:Type="String">i</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">1916.75</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">1951.0250000000001</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2010.825</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2050.7249999999999</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2107.35</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2164.875</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2216.8000000000002</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2248.85</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2266.1750000000002</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2278.6</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2296.3000000000002</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2325.0749999999998</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2331.15</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2361.5</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2440.9499999999998</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2504.0500000000002</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2617.375</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2715.05</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2772.4250000000002</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2810.9</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2861.375</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.8">
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Norway</Data></Cell>
+    <Cell ss:StyleID="s90" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=STLABOUR&amp;Coords=[SUBJECT].[LFACTTTT],[MEASURE].[STSA],[FREQUENCY].[A],[LOCATION].[NOR]&amp;ShowOnWeb=true&amp;Lang=en"><Data
+      ss:Type="String">i</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">2332.75</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">2347.6999999999998</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">2364.4749999999999</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">2352.8000000000002</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">2365.4749999999999</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">2387.1999999999998</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">2435.75</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">2496.4250000000002</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">2579.4749999999999</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">2579.5</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">2592.0500000000002</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">2619.75</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">2668.7750000000001</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">2693.8</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">2721.4</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">2759.5749999999998</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">2767.65</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">2758.7</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">2791.95</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">2819.4749999999999</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">2827.0250000000001</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.8">
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Poland</Data></Cell>
+    <Cell ss:StyleID="s90" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=STLABOUR&amp;Coords=[SUBJECT].[LFACTTTT],[MEASURE].[STSA],[FREQUENCY].[A],[LOCATION].[POL]&amp;ShowOnWeb=true&amp;Lang=en"><Data
+      ss:Type="String">i</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">17313.349999999999</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">17375.32</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">17212.53</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">16939.32</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">17023.45</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">17160.82</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">16937.7</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">16859.150000000001</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">17010.13</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">17279.2</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">17123</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">17220.650000000001</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">17339.75</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">17360.7</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">17428.25</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">17387.5</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">17259.43</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">17266.099999999999</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">17143.28</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">17018.22</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">16978.3</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.8">
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Portugal</Data></Cell>
+    <Cell ss:StyleID="s90" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=STLABOUR&amp;Coords=[SUBJECT].[LFACTTTT],[MEASURE].[STSA],[FREQUENCY].[A],[LOCATION].[PRT]&amp;ShowOnWeb=true&amp;Lang=en"><Data
+      ss:Type="String">i</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">5251.45</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">5341.95</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">5413.5</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">5432.875</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">5420.0749999999998</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">5461.1</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">5498.6750000000002</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">5531.9250000000002</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">5533.9250000000002</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">5485.875</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">5489.0749999999998</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">5426.35</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">5381.25</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">5283.0749999999998</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">5224.3249999999998</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">5193.8999999999996</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">5177.4750000000004</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">5218.2250000000004</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">5232</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">5251.5749999999998</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">5163.9750000000004</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.8">
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Slovak Republic</Data></Cell>
+    <Cell ss:StyleID="s90" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=STLABOUR&amp;Coords=[SUBJECT].[LFACTTTT],[MEASURE].[STSA],[FREQUENCY].[A],[LOCATION].[SVK]&amp;ShowOnWeb=true&amp;Lang=en"><Data
+      ss:Type="String">i</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2586.5</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2628.55</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2610.6750000000002</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2621.9250000000002</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2650.75</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2645.25</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2657.7</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2653.375</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2689.45</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2689.7750000000001</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2706.7</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2680.3</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2706.95</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2715.4</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2721.9250000000002</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2738.4</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2758.9</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2754.65</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2746.25</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2741.4</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2712.5</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.8">
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Slovenia</Data></Cell>
+    <Cell ss:StyleID="s90" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=STLABOUR&amp;Coords=[SUBJECT].[LFACTTTT],[MEASURE].[STSA],[FREQUENCY].[A],[LOCATION].[SVN]&amp;ShowOnWeb=true&amp;Lang=en"><Data
+      ss:Type="String">i</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">965.625</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">976.57500000000005</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">970.8</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">961.35</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">1006.775</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">1015.25</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">1022</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">1035</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">1041.6500000000001</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">1041.575</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">1041.375</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">1019.35</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">1013.225</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">1007.65</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">1014.775</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">1007.775</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">994.57500000000005</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">1026.45</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">1033.425</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">1028.2249999999999</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">1029.175</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.8">
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Spain</Data></Cell>
+    <Cell ss:StyleID="s90" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=STLABOUR&amp;Coords=[SUBJECT].[LFACTTTT],[MEASURE].[STSA],[FREQUENCY].[A],[LOCATION].[ESP]&amp;ShowOnWeb=true&amp;Lang=en"><Data
+      ss:Type="String">i</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">18012.2</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">18050.32</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">18961.07</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">19742.72</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">20375.78</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">21140.47</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">21779.78</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">22426</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">23065.55</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">23260.400000000001</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">23364.55</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">23433.78</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">23443.15</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">23189.97</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">22954.2</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">22921.53</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">22822.38</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">22741.7</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">22806.63</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">23026.9</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">22733.200000000001</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.8">
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Sweden</Data></Cell>
+    <Cell ss:StyleID="s90" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=STLABOUR&amp;Coords=[SUBJECT].[LFACTTTT],[MEASURE].[STSA],[FREQUENCY].[A],[LOCATION].[SWE]&amp;ShowOnWeb=true&amp;Lang=en"><Data
+      ss:Type="String">i</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">4418</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">4538.125</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">4554.875</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">4574.05</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">4589.5249999999996</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">4687.3249999999998</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">4766.25</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">4838.8</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">4898.3500000000004</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">4909.3249999999998</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">4949.8500000000004</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">5017.4750000000004</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">5060.75</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">5116.4750000000004</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">5184.4750000000004</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">5225.125</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">5278.9250000000002</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">5383.3</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">5443.75</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">5507.9</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">5522.15</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.8">
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Switzerland</Data></Cell>
+    <Cell ss:StyleID="s90" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=STLABOUR&amp;Coords=[SUBJECT].[LFACTTTT],[MEASURE].[STSA],[FREQUENCY].[A],[LOCATION].[CHE]&amp;ShowOnWeb=true&amp;Lang=en"><Data
+      ss:Type="String">i</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="String">..</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="String">..</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="String">..</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="String">..</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="String">..</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">4159</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">4220.2</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">4278.3</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">4375.3999999999996</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">4451.2</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">4419.7749999999996</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">4495.7250000000004</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">4555.4250000000002</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">4611.2749999999996</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">4694.95</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">4766.8249999999998</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">4842.0749999999998</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">4869.8500000000004</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">4906.3999999999996</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">4922.05</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">4933.7749999999996</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.8">
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Türkiye</Data></Cell>
+    <Cell ss:StyleID="s90" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=STLABOUR&amp;Coords=[SUBJECT].[LFACTTTT],[MEASURE].[STSA],[FREQUENCY].[A],[LOCATION].[TUR]&amp;ShowOnWeb=true&amp;Lang=en"><Data
+      ss:Type="String">i</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">..</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">..</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">..</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">..</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">..</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">..</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">22383.68</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">22768.32</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">23471.22</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">24323.55</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">25287.97</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">26422.82</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">27021.200000000001</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">27960.32</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">28772.13</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">29652.15</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">30523.1</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">31616.82</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">32244.65</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">32523.57</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">30849.32</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.8">
+    <Cell ss:StyleID="s91"><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell ss:StyleID="s90" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=STLABOUR&amp;Coords=[SUBJECT].[LFACTTTT],[MEASURE].[STSA],[FREQUENCY].[A],[LOCATION].[GBR]&amp;ShowOnWeb=true&amp;Lang=en"><Data
+      ss:Type="String">i</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">29070.5</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">29200</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">29472</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">29711</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">29955.25</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">30315.75</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">30810</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">31032.5</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">31413.5</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">31556.25</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">31723</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">31966.25</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">32264</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">32513.5</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">32777.25</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">33064.75</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">33378.5</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">33536.5</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">33823.25</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">34102</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">34060.75</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.8">
+    <Cell ss:StyleID="s91"><Data ss:Type="String">United States</Data></Cell>
+    <Cell ss:StyleID="s90" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=STLABOUR&amp;Coords=[SUBJECT].[LFACTTTT],[MEASURE].[STSA],[FREQUENCY].[A],[LOCATION].[USA]&amp;ShowOnWeb=true&amp;Lang=en"><Data
+      ss:Type="String">i</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">142582.6</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">143733.9</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">144862.9</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">146509.70000000001</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">147401.20000000001</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">149320.29999999999</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">151427.6</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">153124.20000000001</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">154286.70000000001</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">154142</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">153888.6</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">153616.70000000001</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">154974.6</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">155389.20000000001</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">155921.79999999999</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">157129.9</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">159187.20000000001</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">160319.79999999999</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">162075</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">163538.70000000001</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">160742.29999999999</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.8">
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Euro area (19 countries)</Data></Cell>
+    <Cell ss:StyleID="s90" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=STLABOUR&amp;Coords=[SUBJECT].[LFACTTTT],[MEASURE].[STSA],[FREQUENCY].[A],[LOCATION].[EA19]&amp;ShowOnWeb=true&amp;Lang=en"><Data
+      ss:Type="String">i</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">138315.79999999999</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">138992.20000000001</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">140806.5</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">146789</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">148035</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">153341.5</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">155139.79999999999</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">156813.20000000001</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">158491.5</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">158829.20000000001</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">158133.20000000001</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">158372.70000000001</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">159541</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">159813</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">160796.6</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">161143.9</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">162424.4</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">162992.5</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">163612.4</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">164423.4</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">162668.70000000001</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="20.549999999999997">
+    <Cell ss:StyleID="s91"><Data ss:Type="String">European Union – 27 countries (from 01/02/2020)</Data></Cell>
+    <Cell ss:StyleID="s90" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=STLABOUR&amp;Coords=[SUBJECT].[LFACTTTT],[MEASURE].[STSA],[FREQUENCY].[A],[LOCATION].[EU27_2020]&amp;ShowOnWeb=true&amp;Lang=en"><Data
+      ss:Type="String">i</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">222556.2</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">223442</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">224413.9</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">225910.2</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">227483.6</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">202394.5</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">204429.3</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">206249.7</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">208161.1</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">208725.5</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">207265.9</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">207354</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">208806.8</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">209191.5</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">210514.6</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">210862.7</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">211907.20000000001</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">212900.4</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">213443.20000000001</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">214270.9</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">212277.3</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.8">
+    <Cell ss:StyleID="s91"><Data ss:Type="String">G7</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">345016.6</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">347049.6</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">348794.2</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">350678.8</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">352366.6</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">355953.3</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">359658.2</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">362472.4</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">364845.4</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">364846.1</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">363983.7</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">364204</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">366715.9</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">368358.40000000002</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">370660.2</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">372717.8</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">376978.8</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">379508.3</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">383171.8</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">386239.5</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">381798.3</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">E: Estimated value </Font></ss:Data></Comment></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.8">
+    <Cell ss:StyleID="s91"><Data ss:Type="String">OECD - Total</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">..</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">..</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">..</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">..</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">..</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">..</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">..</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">602867.80000000005</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">E: Estimated value </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">609428.69999999995</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">E: Estimated value </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">613850.19999999995</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">E: Estimated value </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">616708.5</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">E: Estimated value </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">620697.80000000005</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">627728.69999999995</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">631802.80000000005</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">636709.19999999995</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">642249.30000000005</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">649377.80000000005</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">654605.69999999995</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">662085.1</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">668962.5</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">B: Break </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">656806.80000000005</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="9"
+        html:Color="#000000">E: Estimated value </Font></ss:Data></Comment></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.8">
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Russia</Data></Cell>
+    <Cell ss:StyleID="s90" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=STLABOUR&amp;Coords=[SUBJECT].[LFACTTTT],[MEASURE].[STSA],[FREQUENCY].[A],[LOCATION].[RUS]&amp;ShowOnWeb=true&amp;Lang=en"><Data
+      ss:Type="String">i</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">72770</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">71546.75</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">72357.25</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">72391.5</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">72949.5</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">73431.7</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">74166.899999999994</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">75158.97</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">75756.56</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">75708.25</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">75439.75</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">75779.02</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">75676.08</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">75528.91</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">75428.41</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">76587.55</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">76636.12</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">76168.820000000007</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">76077.259999999995</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">75287.27</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">74832.77</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s95" ss:HRef="https://stats-2.oecd.org/index.aspx?DatasetCode=STLABOUR"><Data
+      ss:Type="String">Data extracted on 15 Sep 2022 17:54 UTC (GMT) from OECD.Stat</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s96"><Data ss:Type="String">Legend:</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s97"><Data ss:Type="String">B:</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">Break</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s97"><Data ss:Type="String">E:</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">Estimated value</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Unsynced/>
+   <Print>
+    <ValidPrinterInfo/>
+    <VerticalResolution>0</VerticalResolution>
+   </Print>
+   <Selected/>
+   <DoNotDisplayGridlines/>
+   <TopRowVisible>1</TopRowVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>3</ActiveRow>
+     <ActiveCol>2</ActiveCol>
+     <RangeSelection>R4C3:R4C23</RangeSelection>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
